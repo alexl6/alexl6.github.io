@@ -1,2 +1,3 @@
-# alexl6.github.io
-Personal website (Under construction)
+# Personal website (Under construction)
+[GitHub](https://github.com/alexl6)
+
